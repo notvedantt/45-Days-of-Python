@@ -1,6 +1,6 @@
 print("Hello, Welcome to the Kon Banega Crorepati")
 input("Enter your name: ")
-input("Are you ready to play?\n")
+
 print("Okay let's begin")
 
 #QUESTION 1
