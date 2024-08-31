@@ -5,3 +5,4 @@ def factorial(num):
         return (num * factorial(num - 1))
 
 print(factorial(3))
+#Can add same function in existing function 
